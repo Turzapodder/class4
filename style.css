@@ -1,0 +1,159 @@
+*
+{
+	margin: 0;
+}
+body
+{
+	background-color: #65c4f1;
+}
+section
+{
+	width: 1200px;
+	height: 800px;
+	margin: auto;
+	background-color: white;
+	margin-top: 50px;
+}
+.row
+{
+	width: 100%;
+	height: 200px;
+}
+.yellow
+{
+	background-color: yellow;
+}
+.orange
+{
+	background-color: orange;
+}
+.pink
+{
+	background-color: pink;
+}
+.green
+{
+	background-color: green;
+}
+
+.col_1{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;	
+}
+.col_2
+{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	padding: 10px;
+	padding-left: 0px;
+	box-sizing: border-box;		
+}
+.col_3{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	padding: 10px;
+	padding-left: 0px;
+	box-sizing: border-box;	
+}
+.col-1
+{
+	width: 50%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	padding-bottom: 0px;
+	box-sizing: border-box;	
+}
+.col-2
+{
+	width: 50%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	box-sizing: border-box;	
+}
+.col-01
+{
+	width: 66.66%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;	
+}
+.col-02
+{
+	width: 16.66%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	padding-left: 0px;
+	box-sizing: border-box;	
+}
+.col-03
+{
+	width: 16.66%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	padding-left: 0px;
+	box-sizing: border-box;	
+}
+.Col1
+{
+	height: 100%;
+	padding: 0px 10px;
+	box-sizing: border-box;	
+}
+.one
+{
+	background-color: #ffb3ff;
+	height: 100%;
+}
+.two
+{
+	background-color: #86cfff;
+	height: 100%;
+}
+.three
+{
+	background-color: #ffc792;
+	height: 100%;
+}
+.four
+{
+	background-color: #dfff9a;
+	height: 100%;
+}
+.five
+{
+	background-color: #ff7474;
+	height: 100%;
+}
+.six
+{
+	background-color: #c1ffc1;
+	height: 100%;
+}
+.seven
+{
+	background-color: #fffac6;
+	height: 100%;
+}
+.eight
+{
+	background-color: #bdfdde;
+	height: 100%;
+}
+.nine
+{
+	background-color: #ff7474;
+	height: 100%;
+}
+
